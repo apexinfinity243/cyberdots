@@ -1,0 +1,14 @@
+* { font-family: "JetBrainsMono Nerd Font"; }
+
+.notification {
+  background: rgba(10, 7, 16, 0.92);
+  border: 1px solid #ff2bd6;
+  border-radius: 10px;
+}
+.summary { color: #00e5ff; font-weight: bold; }
+.body    { color: #d5f6f7; }
+.control-center {
+  background: rgba(10, 7, 16, 0.95);
+  border: 2px solid #00e5ff;
+  border-radius: 12px;
+}
